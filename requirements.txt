@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+dill
+scikit-learn
+datetime
+flask
+-e .
